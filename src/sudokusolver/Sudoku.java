@@ -1,8 +1,5 @@
 package sudokusolver;
 
-/**
- * @author tom
- */
 public class Sudoku {
     int[][] value;
 
